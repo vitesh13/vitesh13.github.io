@@ -8,8 +8,13 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My current interests are: 
+1. Deformation and Recrystallization in metals and alloys
+2. Material behaviour at high velocity impacts or at high strain rates
+3. Using data science to understand the different correlations between material and mechanical properties
+
+Areas of expertise: Recrystallization, Heat treatments, High strain rate behaviour, DAMASK (Crystal Plasticity), SCORE (Cellular Automata), Integrated Computational Materials Engineering (ICME) workflows. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vitesh.manchester@gmail.com](mailto:email@domain.com)
